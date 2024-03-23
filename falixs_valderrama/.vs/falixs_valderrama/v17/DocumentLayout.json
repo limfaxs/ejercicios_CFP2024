@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6941EB-DAEF-4DCB-BE2E-C37D1CDEA261}|primera_clase\\primera_clase.csproj|c:\\users\\lixfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\primera_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6941EB-DAEF-4DCB-BE2E-C37D1CDEA261}|primera_clase\\primera_clase.csproj|solutionrelative:primera_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\Program.cs",
+              "RelativeDocumentMoniker": "primera_clase\\Program.cs",
+              "ToolTip": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\Program.cs",
+              "RelativeToolTip": "primera_clase\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:10:04.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

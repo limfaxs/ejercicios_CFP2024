@@ -1,0 +1,15 @@
+C:\Users\LIXFA\Desktop\ejercicios_CFP2024\falixs_valderrama\primera_clase\bin\Debug\net8.0\primera_clase.exe
+C:\Users\LIXFA\Desktop\ejercicios_CFP2024\falixs_valderrama\primera_clase\bin\Debug\net8.0\primera_clase.deps.json
+C:\Users\LIXFA\Desktop\ejercicios_CFP2024\falixs_valderrama\primera_clase\bin\Debug\net8.0\primera_clase.runtimeconfig.json
+C:\Users\LIXFA\Desktop\ejercicios_CFP2024\falixs_valderrama\primera_clase\bin\Debug\net8.0\primera_clase.dll
+C:\Users\LIXFA\Desktop\ejercicios_CFP2024\falixs_valderrama\primera_clase\bin\Debug\net8.0\primera_clase.pdb
+C:\Users\LIXFA\Desktop\ejercicios_CFP2024\falixs_valderrama\primera_clase\obj\Debug\net8.0\primera_clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIXFA\Desktop\ejercicios_CFP2024\falixs_valderrama\primera_clase\obj\Debug\net8.0\primera_clase.AssemblyInfoInputs.cache
+C:\Users\LIXFA\Desktop\ejercicios_CFP2024\falixs_valderrama\primera_clase\obj\Debug\net8.0\primera_clase.AssemblyInfo.cs
+C:\Users\LIXFA\Desktop\ejercicios_CFP2024\falixs_valderrama\primera_clase\obj\Debug\net8.0\primera_clase.csproj.CoreCompileInputs.cache
+C:\Users\LIXFA\Desktop\ejercicios_CFP2024\falixs_valderrama\primera_clase\obj\Debug\net8.0\primera_clase.sourcelink.json
+C:\Users\LIXFA\Desktop\ejercicios_CFP2024\falixs_valderrama\primera_clase\obj\Debug\net8.0\primera_clase.dll
+C:\Users\LIXFA\Desktop\ejercicios_CFP2024\falixs_valderrama\primera_clase\obj\Debug\net8.0\refint\primera_clase.dll
+C:\Users\LIXFA\Desktop\ejercicios_CFP2024\falixs_valderrama\primera_clase\obj\Debug\net8.0\primera_clase.pdb
+C:\Users\LIXFA\Desktop\ejercicios_CFP2024\falixs_valderrama\primera_clase\obj\Debug\net8.0\primera_clase.genruntimeconfig.cache
+C:\Users\LIXFA\Desktop\ejercicios_CFP2024\falixs_valderrama\primera_clase\obj\Debug\net8.0\ref\primera_clase.dll
