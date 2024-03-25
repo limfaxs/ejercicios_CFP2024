@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D6941EB-DAEF-4DCB-BE2E-C37D1CDEA261}|primera_clase\\primera_clase.csproj|c:\\users\\lixfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\primera_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D6941EB-DAEF-4DCB-BE2E-C37D1CDEA261}|primera_clase\\primera_clase.csproj|solutionrelative:primera_clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27E6908E-E2DA-4F0A-8043-5ED239A67BFE}|RepasoCondicionales\\RepasoCondicionales.csproj|c:\\users\\lixfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\repasocondicionales\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E6908E-E2DA-4F0A-8043-5ED239A67BFE}|RepasoCondicionales\\RepasoCondicionales.csproj|solutionrelative:repasocondicionales\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\Program.cs",
-              "RelativeDocumentMoniker": "primera_clase\\Program.cs",
-              "ToolTip": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\Program.cs",
-              "RelativeToolTip": "primera_clase\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAmwB4AAAAIAAAA",
+              "Title": "Condicionales.cs",
+              "DocumentMoniker": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\Condicionales.cs",
+              "RelativeDocumentMoniker": "RepasoCondicionales\\Condicionales.cs",
+              "ToolTip": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\Condicionales.cs",
+              "RelativeToolTip": "RepasoCondicionales\\Condicionales.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T05:10:04.851Z",
+              "WhenOpened": "2024-03-25T15:26:58.081Z",
               "EditorCaption": ""
             }
           ]
