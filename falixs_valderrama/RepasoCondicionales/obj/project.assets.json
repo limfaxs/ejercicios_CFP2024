@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\LIXFA\\.nuget\\packages\\": {}
+    "C:\\Users\\LIXSFA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\RepasoCondicionales.csproj",
+      "projectUniqueName": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\RepasoCondicionales.csproj",
       "projectName": "RepasoCondicionales",
-      "projectPath": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\RepasoCondicionales.csproj",
-      "packagesPath": "C:\\Users\\LIXFA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\obj\\",
+      "projectPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\RepasoCondicionales.csproj",
+      "packagesPath": "C:\\Users\\LIXSFA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LIXFA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LIXSFA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\",
+  "WorkspaceRootPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27E6908E-E2DA-4F0A-8043-5ED239A67BFE}|RepasoCondicionales\\RepasoCondicionales.csproj|c:\\users\\lixfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\repasocondicionales\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27E6908E-E2DA-4F0A-8043-5ED239A67BFE}|RepasoCondicionales\\RepasoCondicionales.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\repasocondicionales\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27E6908E-E2DA-4F0A-8043-5ED239A67BFE}|RepasoCondicionales\\RepasoCondicionales.csproj|solutionrelative:repasocondicionales\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Condicionales.cs",
-              "DocumentMoniker": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\Condicionales.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\Condicionales.cs",
               "RelativeDocumentMoniker": "RepasoCondicionales\\Condicionales.cs",
-              "ToolTip": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\Condicionales.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\Condicionales.cs",
               "RelativeToolTip": "RepasoCondicionales\\Condicionales.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCEAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T15:26:58.081Z",
               "EditorCaption": ""

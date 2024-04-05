@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\RepasoCondicionales.csproj": {}
+    "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO1\\EJERCICIO1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\RepasoCondicionales.csproj": {
+    "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO1\\EJERCICIO1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\RepasoCondicionales.csproj",
-        "projectName": "RepasoCondicionales",
-        "projectPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\RepasoCondicionales.csproj",
+        "projectUniqueName": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO1\\EJERCICIO1.csproj",
+        "projectName": "EJERCICIO1",
+        "projectPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO1\\EJERCICIO1.csproj",
         "packagesPath": "C:\\Users\\LIXSFA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\obj\\",
+        "outputPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LIXSFA\\AppData\\Roaming\\NuGet\\NuGet.Config",

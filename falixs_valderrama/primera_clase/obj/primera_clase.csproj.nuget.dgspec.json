@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\primera_clase.csproj": {}
+    "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\primera_clase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\primera_clase.csproj": {
+    "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\primera_clase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\primera_clase.csproj",
+        "projectUniqueName": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\primera_clase.csproj",
         "projectName": "primera_clase",
-        "projectPath": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\primera_clase.csproj",
-        "packagesPath": "C:\\Users\\LIXFA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LIXFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\obj\\",
+        "projectPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\primera_clase.csproj",
+        "packagesPath": "C:\\Users\\LIXSFA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LIXFA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LIXSFA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\primera_clase.csproj",
-      "projectName": "primera_clase",
-      "projectPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\primera_clase.csproj",
+      "projectUniqueName": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO1\\EJERCICIO1.csproj",
+      "projectName": "EJERCICIO1",
+      "projectPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO1\\EJERCICIO1.csproj",
       "packagesPath": "C:\\Users\\LIXSFA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\primera_clase\\obj\\",
+      "outputPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LIXSFA\\AppData\\Roaming\\NuGet\\NuGet.Config",
