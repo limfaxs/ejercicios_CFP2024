@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7F67B73-DAF2-42A0-A79E-6134BA80D976}|EJERCICIO2\\EJERCICIO2.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\ejercicio2\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7F67B73-DAF2-42A0-A79E-6134BA80D976}|EJERCICIO2\\EJERCICIO2.csproj|solutionrelative:ejercicio2\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27E6908E-E2DA-4F0A-8043-5ED239A67BFE}|RepasoCondicionales\\RepasoCondicionales.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\repasocondicionales\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27E6908E-E2DA-4F0A-8043-5ED239A67BFE}|RepasoCondicionales\\RepasoCondicionales.csproj|solutionrelative:repasocondicionales\\condicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{684EBE16-FB2E-4647-ACEE-FC088F318C85}|EJERCICIO3\\EJERCICIO3.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\ejercicio3\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684EBE16-FB2E-4647-ACEE-FC088F318C85}|EJERCICIO3\\EJERCICIO3.csproj|solutionrelative:ejercicio3\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ejercicio2.cs",
-              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO2\\Ejercicio2.cs",
-              "RelativeDocumentMoniker": "EJERCICIO2\\Ejercicio2.cs",
-              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO2\\Ejercicio2.cs",
-              "RelativeToolTip": "EJERCICIO2\\Ejercicio2.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBgAAAArAAAA",
+              "Title": "Ejercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO3\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "EJERCICIO3\\Ejercicio3.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO3\\Ejercicio3.cs",
+              "RelativeToolTip": "EJERCICIO3\\Ejercicio3.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBMAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T23:02:01.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Condicionales.cs",
-              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\Condicionales.cs",
-              "RelativeDocumentMoniker": "RepasoCondicionales\\Condicionales.cs",
-              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\RepasoCondicionales\\Condicionales.cs",
-              "RelativeToolTip": "RepasoCondicionales\\Condicionales.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T15:26:58.081Z",
+              "WhenOpened": "2024-04-07T16:04:00.805Z",
               "EditorCaption": ""
             }
           ]
