@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B265DC6-D730-47B1-B47C-BB864626BE4E}|EJERCICIO4\\EJERCICIO4.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\ejercicio4\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B265DC6-D730-47B1-B47C-BB864626BE4E}|EJERCICIO4\\EJERCICIO4.csproj|solutionrelative:ejercicio4\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{684EBE16-FB2E-4647-ACEE-FC088F318C85}|EJERCICIO3\\EJERCICIO3.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\ejercicio3\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{684EBE16-FB2E-4647-ACEE-FC088F318C85}|EJERCICIO3\\EJERCICIO3.csproj|solutionrelative:ejercicio3\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Ejercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO4\\Ejercicio4.cs",
+              "RelativeDocumentMoniker": "EJERCICIO4\\Ejercicio4.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO4\\Ejercicio4.cs",
+              "RelativeToolTip": "EJERCICIO4\\Ejercicio4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T02:00:56.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Ejercicio3.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO3\\Ejercicio3.cs",
               "RelativeDocumentMoniker": "EJERCICIO3\\Ejercicio3.cs",
               "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO3\\Ejercicio3.cs",
               "RelativeToolTip": "EJERCICIO3\\Ejercicio3.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBMAAAAwAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T16:04:00.805Z",
               "EditorCaption": ""
