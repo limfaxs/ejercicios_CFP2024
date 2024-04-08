@@ -10,21 +10,33 @@ namespace EJERCICIO3
          //   Ingresar 2 números y mostrar la suma de los mismos
 
         {
-           // int numer01;
-            //int numero2;
-            //int resultado;
+            string numerostring1 = "4";
+            string numerostring2 = "24";
+            //string resultado;
 
-            Console.Write("Escribe un numero ");
-            double numero1 = Convert.ToDouble(Console.ReadLine());
+            int num1 = Int32.Parse(numerostring1);
+            int num2 = Int32.Parse(numerostring2);
+            int resultadoI = num1 + num2;
 
-            Console.Write("Escribe otro numero ");
-            double numero2 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Lasuma de los dos numeros es. " +resultadoI);
+            Console.Read();
 
-            double resultado;
 
-            resultado = numero1 + numero2;
+           /// int numer01;
+            ///int numero2;
+            ///int resultado;
 
-            Console.WriteLine("La suma de " + numero1 + " + " + numero2 + ", es : " + resultado);
+            //Console.Write("Escribe un numero ");
+            //double numero1 = Convert.ToDouble(Console.ReadLine());
+
+            //Console.Write("Escribe otro numero ");
+            //double numero2 = Convert.ToDouble(Console.ReadLine());
+
+            //double resultado;
+
+            //resultado = numero1 + numero2;
+
+            //Console.WriteLine("La suma de " + numero1 + " + " + numero2 + ", es : " + resultado);
 
 
 
