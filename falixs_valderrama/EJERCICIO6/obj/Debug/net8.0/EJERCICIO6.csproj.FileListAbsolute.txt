@@ -1,0 +1,15 @@
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO6\obj\Debug\net8.0\EJERCICIO6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO6\obj\Debug\net8.0\EJERCICIO6.AssemblyInfoInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO6\obj\Debug\net8.0\EJERCICIO6.AssemblyInfo.cs
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO6\obj\Debug\net8.0\EJERCICIO6.csproj.CoreCompileInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO6\obj\Debug\net8.0\EJERCICIO6.sourcelink.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO6\bin\Debug\net8.0\EJERCICIO6.exe
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO6\bin\Debug\net8.0\EJERCICIO6.deps.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO6\bin\Debug\net8.0\EJERCICIO6.runtimeconfig.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO6\bin\Debug\net8.0\EJERCICIO6.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO6\bin\Debug\net8.0\EJERCICIO6.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO6\obj\Debug\net8.0\EJERCICIO6.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO6\obj\Debug\net8.0\refint\EJERCICIO6.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO6\obj\Debug\net8.0\EJERCICIO6.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO6\obj\Debug\net8.0\EJERCICIO6.genruntimeconfig.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO6\obj\Debug\net8.0\ref\EJERCICIO6.dll

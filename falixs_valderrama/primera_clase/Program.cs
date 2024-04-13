@@ -26,8 +26,9 @@
             //Console.WriteLine("{1} Bienvenido {2} {0}, ud tiene: {1} años. ", apellido, edadNumerica, nombre);
 
             Console.WriteLine($"Bienvenido {nombre} {apellido}, ud tiene: {edadNumerica} años.");
+            
 
         }
-        
+
     }
     }
