@@ -1,0 +1,15 @@
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO8\bin\Debug\net8.0\EJERCICIO8.exe
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO8\bin\Debug\net8.0\EJERCICIO8.deps.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO8\bin\Debug\net8.0\EJERCICIO8.runtimeconfig.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO8\bin\Debug\net8.0\EJERCICIO8.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO8\bin\Debug\net8.0\EJERCICIO8.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO8\obj\Debug\net8.0\EJERCICIO8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO8\obj\Debug\net8.0\EJERCICIO8.AssemblyInfoInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO8\obj\Debug\net8.0\EJERCICIO8.AssemblyInfo.cs
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO8\obj\Debug\net8.0\EJERCICIO8.csproj.CoreCompileInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO8\obj\Debug\net8.0\EJERCICIO8.sourcelink.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO8\obj\Debug\net8.0\EJERCICIO8.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO8\obj\Debug\net8.0\refint\EJERCICIO8.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO8\obj\Debug\net8.0\EJERCICIO8.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO8\obj\Debug\net8.0\EJERCICIO8.genruntimeconfig.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\EJERCICIO8\obj\Debug\net8.0\ref\EJERCICIO8.dll

@@ -3,7 +3,7 @@ using System.Runtime.ConstrainedExecution;
 
 namespace EJERCICIO7
 {
-    internal class Ejercicio7
+    internal class Ejercicio7_REPETITIVAS
     {
         static void Main(string[] args)
         {

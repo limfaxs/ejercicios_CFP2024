@@ -4,11 +4,12 @@ using System.ComponentModel.Design;
 
 namespace EJERCICIO6
 {
-    internal class Ejercicio6
+    internal class Ejercicio6_CONDICIONALES
     {
         static void Main(string[] args)
         {
             /*
+            (CONDICIONALES)
             Una empresa que se dedica a la comercialización de lámparas de bajo consumo, registra de sus ventas,
             los siguientes datos: marca y cantidad.El precio de cada lamparita es de $150(Sin importar la marca).
             El programa deberá calcular el precio total de la venta, aplicando un descuento si es que corresponde.

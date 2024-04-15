@@ -1,15 +1,18 @@
 ﻿namespace EJERCICIO5
 {
-    internal class Ejercicio5
+    internal class Ejercicio5_ENTRADAS_SALIDAS
     {
         static void Main(string[] args)
         {
-            ///En un hospital existen tres áreas: Cardiología, Pediatría y Traumatología.
-            ///El presupuesto anual del hospital se reparte conforme a la siguiente tabla:
-            ///Área Porcentaje del presupuesto
-            ///Cardiología         40 %
-            ///Pediatría           45 %
-            ///Traumatología       15 %
+            /*
+            /// E/S
+            /// En un hospital existen tres áreas: Cardiología, Pediatría y Traumatología.
+            /// El presupuesto anual del hospital se reparte conforme a la siguiente tabla:
+            /// Área Porcentaje del presupuesto
+            /// Cardiología         40 %
+            /// Pediatría           45 %
+            /// Traumatología       15 %
+            */
 
             Double presupuestoAnual;
             Double porcentajeCardio;
