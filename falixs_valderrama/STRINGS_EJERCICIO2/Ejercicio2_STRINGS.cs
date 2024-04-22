@@ -18,6 +18,10 @@
             for (int i = 0; i < palabra.Length; i++)
             {
                 Console.Write(palabra[i]);
+                if (i < palabra.Length - 1)
+                {
+                    Console.Write("-");
+                }
             }
 
         }
