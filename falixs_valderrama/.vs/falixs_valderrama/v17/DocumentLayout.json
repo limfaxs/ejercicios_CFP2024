@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EC93997C-1D83-42B7-BD59-0965A475C75F}|VECTORES_EJERCICIO1\\VECTORES_EJERCICIO1.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\vectores_ejercicio1\\ejercicio1_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC93997C-1D83-42B7-BD59-0965A475C75F}|VECTORES_EJERCICIO1\\VECTORES_EJERCICIO1.csproj|solutionrelative:vectores_ejercicio1\\ejercicio1_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1075100-BE28-4AB1-B4D6-1E2900277F3C}|FUNCIONES_EJERCICIO3\\FUNCIONES_EJERCICIO3.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\funciones_ejercicio3\\funciones_ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1075100-BE28-4AB1-B4D6-1E2900277F3C}|FUNCIONES_EJERCICIO3\\FUNCIONES_EJERCICIO3.csproj|solutionrelative:funciones_ejercicio3\\funciones_ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EJERCICIO1_VECTORES.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIO1\\EJERCICIO1_VECTORES.cs",
+              "RelativeDocumentMoniker": "VECTORES_EJERCICIO1\\EJERCICIO1_VECTORES.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIO1\\EJERCICIO1_VECTORES.cs",
+              "RelativeToolTip": "VECTORES_EJERCICIO1\\EJERCICIO1_VECTORES.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:46:31.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FUNCIONES_EJERCICIO3.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FUNCIONES_EJERCICIO3\\FUNCIONES_EJERCICIO3.cs",
               "RelativeDocumentMoniker": "FUNCIONES_EJERCICIO3\\FUNCIONES_EJERCICIO3.cs",
               "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FUNCIONES_EJERCICIO3\\FUNCIONES_EJERCICIO3.cs",
               "RelativeToolTip": "FUNCIONES_EJERCICIO3\\FUNCIONES_EJERCICIO3.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T18:32:10.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FUNCIONES_EJERCICIO2.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FUNCIONES_EJERCICIO2\\FUNCIONES_EJERCICIO2.cs",
               "RelativeDocumentMoniker": "FUNCIONES_EJERCICIO2\\FUNCIONES_EJERCICIO2.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "FUNCIONES_EJERCICIO2\\FUNCIONES_EJERCICIO2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T18:02:16.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T18:02:16.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FUNCIONES_EJERCICIO1\\Program.cs",
               "RelativeDocumentMoniker": "FUNCIONES_EJERCICIO1\\Program.cs",
