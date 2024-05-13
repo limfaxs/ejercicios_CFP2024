@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{36E15F0C-3B62-4A03-963E-A3E2A77F9987}|VECTORES_EJERCICIO7\\VECTORES_EJERCICIO7.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\vectores_ejercicio7\\ejercicio7_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E15F0C-3B62-4A03-963E-A3E2A77F9987}|VECTORES_EJERCICIO7\\VECTORES_EJERCICIO7.csproj|solutionrelative:vectores_ejercicio7\\ejercicio7_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1780A288-E461-406A-A435-E5644932D55A}|VECTORES_EJERCICIO6\\VECTORES_EJERCICIO6.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\vectores_ejercicio6\\ejercicio6_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1780A288-E461-406A-A435-E5644932D55A}|VECTORES_EJERCICIO6\\VECTORES_EJERCICIO6.csproj|solutionrelative:vectores_ejercicio6\\ejercicio6_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA112685-4F66-4BF3-95B0-84CAE16A2DAD}|VECTORES_EJERCICIO5\\VECTORES_EJERCICIO5.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\vectores_ejercicio5\\ejercicio5_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA112685-4F66-4BF3-95B0-84CAE16A2DAD}|VECTORES_EJERCICIO5\\VECTORES_EJERCICIO5.csproj|solutionrelative:vectores_ejercicio5\\ejercicio5_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253F81F0-2C20-43C3-9E9D-25630A6B82D7}|VECTORES_EJERCICIO4\\VECTORES_EJERCICIO4.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\vectores_ejercicio4\\ejercicio4_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253F81F0-2C20-43C3-9E9D-25630A6B82D7}|VECTORES_EJERCICIO4\\VECTORES_EJERCICIO4.csproj|solutionrelative:vectores_ejercicio4\\ejercicio4_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBA1DA3-4CFD-4784-BBA8-5BCDBBBFB3AC}|VECTORES_EJERCICIO2\\VECTORES_EJERCICIO3.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\vectores_ejercicio2\\ejercicio3_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBA1DA3-4CFD-4784-BBA8-5BCDBBBFB3AC}|VECTORES_EJERCICIO2\\VECTORES_EJERCICIO3.csproj|solutionrelative:vectores_ejercicio2\\ejercicio3_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185053AF-DBEA-4B3A-B723-19D8F3264184}|VECTORES_EJERCICIOS2\\VECTORES_EJERCICIOS2.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\vectores_ejercicios2\\ejercicio2_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{185053AF-DBEA-4B3A-B723-19D8F3264184}|VECTORES_EJERCICIOS2\\VECTORES_EJERCICIOS2.csproj|solutionrelative:vectores_ejercicios2\\ejercicio2_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC93997C-1D83-42B7-BD59-0965A475C75F}|VECTORES_EJERCICIO1\\VECTORES_EJERCICIO1.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\vectores_ejercicio1\\ejercicio1_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC93997C-1D83-42B7-BD59-0965A475C75F}|VECTORES_EJERCICIO1\\VECTORES_EJERCICIO1.csproj|solutionrelative:vectores_ejercicio1\\ejercicio1_vectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,32 +63,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EJERCICIO7_VECTORES.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIO7\\EJERCICIO7_VECTORES.cs",
+              "RelativeDocumentMoniker": "VECTORES_EJERCICIO7\\EJERCICIO7_VECTORES.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIO7\\EJERCICIO7_VECTORES.cs",
+              "RelativeToolTip": "VECTORES_EJERCICIO7\\EJERCICIO7_VECTORES.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:15:10.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EJERCICIO6_VECTORES.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIO6\\EJERCICIO6_VECTORES.cs",
+              "RelativeDocumentMoniker": "VECTORES_EJERCICIO6\\EJERCICIO6_VECTORES.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIO6\\EJERCICIO6_VECTORES.cs",
+              "RelativeToolTip": "VECTORES_EJERCICIO6\\EJERCICIO6_VECTORES.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwFgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:10:40.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EJERCICIO5_VECTORES.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIO5\\EJERCICIO5_VECTORES.cs",
+              "RelativeDocumentMoniker": "VECTORES_EJERCICIO5\\EJERCICIO5_VECTORES.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIO5\\EJERCICIO5_VECTORES.cs",
+              "RelativeToolTip": "VECTORES_EJERCICIO5\\EJERCICIO5_VECTORES.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T21:05:07.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EJERCICIO4_VECTORES.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIO4\\EJERCICIO4_VECTORES.cs",
+              "RelativeDocumentMoniker": "VECTORES_EJERCICIO4\\EJERCICIO4_VECTORES.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIO4\\EJERCICIO4_VECTORES.cs",
+              "RelativeToolTip": "VECTORES_EJERCICIO4\\EJERCICIO4_VECTORES.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:41:04.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EJERCICIO3_VECTORES.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIO2\\EJERCICIO3_VECTORES.cs",
+              "RelativeDocumentMoniker": "VECTORES_EJERCICIO2\\EJERCICIO3_VECTORES.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIO2\\EJERCICIO3_VECTORES.cs",
+              "RelativeToolTip": "VECTORES_EJERCICIO2\\EJERCICIO3_VECTORES.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:26:43.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EJERCICIO2_VECTORES.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIOS2\\EJERCICIO2_VECTORES.cs",
+              "RelativeDocumentMoniker": "VECTORES_EJERCICIOS2\\EJERCICIO2_VECTORES.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIOS2\\EJERCICIO2_VECTORES.cs",
+              "RelativeToolTip": "VECTORES_EJERCICIOS2\\EJERCICIO2_VECTORES.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:17:25.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EJERCICIO1_VECTORES.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIO1\\EJERCICIO1_VECTORES.cs",
               "RelativeDocumentMoniker": "VECTORES_EJERCICIO1\\EJERCICIO1_VECTORES.cs",
               "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\VECTORES_EJERCICIO1\\EJERCICIO1_VECTORES.cs",
               "RelativeToolTip": "VECTORES_EJERCICIO1\\EJERCICIO1_VECTORES.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T18:46:31.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "FUNCIONES_EJERCICIO3.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FUNCIONES_EJERCICIO3\\FUNCIONES_EJERCICIO3.cs",
               "RelativeDocumentMoniker": "FUNCIONES_EJERCICIO3\\FUNCIONES_EJERCICIO3.cs",
               "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FUNCIONES_EJERCICIO3\\FUNCIONES_EJERCICIO3.cs",
               "RelativeToolTip": "FUNCIONES_EJERCICIO3\\FUNCIONES_EJERCICIO3.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAABQwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T18:32:10.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "FUNCIONES_EJERCICIO2.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FUNCIONES_EJERCICIO2\\FUNCIONES_EJERCICIO2.cs",
               "RelativeDocumentMoniker": "FUNCIONES_EJERCICIO2\\FUNCIONES_EJERCICIO2.cs",
@@ -72,11 +174,12 @@
               "RelativeToolTip": "FUNCIONES_EJERCICIO2\\FUNCIONES_EJERCICIO2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T18:02:16.795Z"
+              "WhenOpened": "2024-05-13T18:02:16.795Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FUNCIONES_EJERCICIO1\\Program.cs",
               "RelativeDocumentMoniker": "FUNCIONES_EJERCICIO1\\Program.cs",
@@ -84,7 +187,8 @@
               "RelativeToolTip": "FUNCIONES_EJERCICIO1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T00:54:04.038Z"
+              "WhenOpened": "2024-05-11T00:54:04.038Z",
+              "EditorCaption": ""
             }
           ]
         }
