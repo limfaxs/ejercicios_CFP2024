@@ -1,0 +1,15 @@
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\FUNCIONES_EJERCICIO3\bin\Debug\net8.0\FUNCIONES_EJERCICIO3.exe
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\FUNCIONES_EJERCICIO3\bin\Debug\net8.0\FUNCIONES_EJERCICIO3.deps.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\FUNCIONES_EJERCICIO3\bin\Debug\net8.0\FUNCIONES_EJERCICIO3.runtimeconfig.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\FUNCIONES_EJERCICIO3\bin\Debug\net8.0\FUNCIONES_EJERCICIO3.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\FUNCIONES_EJERCICIO3\bin\Debug\net8.0\FUNCIONES_EJERCICIO3.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\FUNCIONES_EJERCICIO3\obj\Debug\net8.0\FUNCIONES_EJERCICIO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\FUNCIONES_EJERCICIO3\obj\Debug\net8.0\FUNCIONES_EJERCICIO3.AssemblyInfoInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\FUNCIONES_EJERCICIO3\obj\Debug\net8.0\FUNCIONES_EJERCICIO3.AssemblyInfo.cs
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\FUNCIONES_EJERCICIO3\obj\Debug\net8.0\FUNCIONES_EJERCICIO3.csproj.CoreCompileInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\FUNCIONES_EJERCICIO3\obj\Debug\net8.0\FUNCIONES_EJERCICIO3.sourcelink.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\FUNCIONES_EJERCICIO3\obj\Debug\net8.0\FUNCIONES_EJERCICIO3.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\FUNCIONES_EJERCICIO3\obj\Debug\net8.0\refint\FUNCIONES_EJERCICIO3.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\FUNCIONES_EJERCICIO3\obj\Debug\net8.0\FUNCIONES_EJERCICIO3.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\FUNCIONES_EJERCICIO3\obj\Debug\net8.0\FUNCIONES_EJERCICIO3.genruntimeconfig.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\FUNCIONES_EJERCICIO3\obj\Debug\net8.0\ref\FUNCIONES_EJERCICIO3.dll
