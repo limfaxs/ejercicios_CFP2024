@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB389A60-E86A-4965-BA0C-EC9E27199C4F}|FUNCIONES_EJERCICIO2\\FUNCIONES_EJERCICIO2.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\funciones_ejercicio2\\funciones_ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB389A60-E86A-4965-BA0C-EC9E27199C4F}|FUNCIONES_EJERCICIO2\\FUNCIONES_EJERCICIO2.csproj|solutionrelative:funciones_ejercicio2\\funciones_ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE6EE9D5-730F-4A49-B9D0-2B7F5C7D0791}|FUNCIONES_EJERCICIO1\\FUNCIONES_EJERCICIO1.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\funciones_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE6EE9D5-730F-4A49-B9D0-2B7F5C7D0791}|FUNCIONES_EJERCICIO1\\FUNCIONES_EJERCICIO1.csproj|solutionrelative:funciones_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FUNCIONES_EJERCICIO2.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FUNCIONES_EJERCICIO2\\FUNCIONES_EJERCICIO2.cs",
+              "RelativeDocumentMoniker": "FUNCIONES_EJERCICIO2\\FUNCIONES_EJERCICIO2.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FUNCIONES_EJERCICIO2\\FUNCIONES_EJERCICIO2.cs",
+              "RelativeToolTip": "FUNCIONES_EJERCICIO2\\FUNCIONES_EJERCICIO2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:02:16.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FUNCIONES_EJERCICIO1\\Program.cs",
               "RelativeDocumentMoniker": "FUNCIONES_EJERCICIO1\\Program.cs",
               "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FUNCIONES_EJERCICIO1\\Program.cs",
               "RelativeToolTip": "FUNCIONES_EJERCICIO1\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBcAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T00:54:04.038Z",
               "EditorCaption": ""
