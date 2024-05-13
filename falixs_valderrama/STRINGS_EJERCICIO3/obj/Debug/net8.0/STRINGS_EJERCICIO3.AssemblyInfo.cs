@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STRINGS_EJERCICIO3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34dfa7c8b2b92f8e4f0acbba9a6408c4e0121c78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31dd448eabbade3f85b5aae91339428cdeba2034")]
 [assembly: System.Reflection.AssemblyProductAttribute("STRINGS_EJERCICIO3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STRINGS_EJERCICIO3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
