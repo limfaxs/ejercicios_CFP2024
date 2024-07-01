@@ -1,0 +1,12 @@
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\PrimeraEvaluacion\bin\Debug\net8.0\PrimeraEvaluacion.deps.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\PrimeraEvaluacion\bin\Debug\net8.0\PrimeraEvaluacion.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\PrimeraEvaluacion\bin\Debug\net8.0\PrimeraEvaluacion.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\PrimeraEvaluacion\obj\Debug\net8.0\PrimeraEvaluacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\PrimeraEvaluacion\obj\Debug\net8.0\PrimeraEvaluacion.AssemblyInfoInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\PrimeraEvaluacion\obj\Debug\net8.0\PrimeraEvaluacion.AssemblyInfo.cs
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\PrimeraEvaluacion\obj\Debug\net8.0\PrimeraEvaluacion.csproj.CoreCompileInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\PrimeraEvaluacion\obj\Debug\net8.0\PrimeraEvaluacion.sourcelink.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\PrimeraEvaluacion\obj\Debug\net8.0\PrimeraEvaluacion.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\PrimeraEvaluacion\obj\Debug\net8.0\refint\PrimeraEvaluacion.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\PrimeraEvaluacion\obj\Debug\net8.0\PrimeraEvaluacion.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\PrimeraEvaluacion\obj\Debug\net8.0\ref\PrimeraEvaluacion.dll

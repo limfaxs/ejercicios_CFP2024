@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepasoCondicionales")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+766538882cf3539a7c3009dfbab3fc671bc92ad5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8becab56182d88887c377ee0e366e69cc30c5606")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepasoCondicionales")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepasoCondicionales")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

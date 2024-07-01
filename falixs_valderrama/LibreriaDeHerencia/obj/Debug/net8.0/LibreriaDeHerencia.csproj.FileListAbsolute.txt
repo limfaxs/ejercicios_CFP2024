@@ -1,0 +1,12 @@
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeHerencia\bin\Debug\net8.0\LibreriaDeHerencia.deps.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeHerencia\bin\Debug\net8.0\LibreriaDeHerencia.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeHerencia\bin\Debug\net8.0\LibreriaDeHerencia.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeHerencia\obj\Debug\net8.0\LibreriaDeHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeHerencia\obj\Debug\net8.0\LibreriaDeHerencia.AssemblyInfoInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeHerencia\obj\Debug\net8.0\LibreriaDeHerencia.AssemblyInfo.cs
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeHerencia\obj\Debug\net8.0\LibreriaDeHerencia.csproj.CoreCompileInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeHerencia\obj\Debug\net8.0\LibreriaDeHerencia.sourcelink.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeHerencia\obj\Debug\net8.0\LibreriaDeHerencia.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeHerencia\obj\Debug\net8.0\refint\LibreriaDeHerencia.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeHerencia\obj\Debug\net8.0\LibreriaDeHerencia.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeHerencia\obj\Debug\net8.0\ref\LibreriaDeHerencia.dll

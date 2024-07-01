@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "INSTANCIA_AUTO/1.0.0": {
+        "runtime": {
+          "INSTANCIA_AUTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INSTANCIA_AUTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

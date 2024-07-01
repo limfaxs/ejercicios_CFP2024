@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TesteoColectivo/1.0.0": {
+        "dependencies": {
+          "BibliotecaColectivo": "1.0.0"
+        },
+        "runtime": {
+          "TesteoColectivo.dll": {}
+        }
+      },
+      "BibliotecaColectivo/1.0.0": {
+        "runtime": {
+          "BibliotecaColectivo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteoColectivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaColectivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

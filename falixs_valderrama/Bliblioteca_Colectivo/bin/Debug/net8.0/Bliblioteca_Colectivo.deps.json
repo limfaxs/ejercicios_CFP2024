@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bliblioteca_Colectivo/1.0.0": {
+        "runtime": {
+          "Bliblioteca_Colectivo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bliblioteca_Colectivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

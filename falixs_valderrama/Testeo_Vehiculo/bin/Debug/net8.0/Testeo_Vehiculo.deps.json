@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Testeo_Vehiculo/1.0.0": {
+        "dependencies": {
+          "LibreriaVehiculos": "1.0.0"
+        },
+        "runtime": {
+          "Testeo_Vehiculo.dll": {}
+        }
+      },
+      "LibreriaVehiculos/1.0.0": {
+        "runtime": {
+          "LibreriaVehiculos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testeo_Vehiculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaVehiculos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

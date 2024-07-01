@@ -1,0 +1,12 @@
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeLapiceras\bin\Debug\net8.0\LibreriaDeLapiceras.deps.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeLapiceras\bin\Debug\net8.0\LibreriaDeLapiceras.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeLapiceras\bin\Debug\net8.0\LibreriaDeLapiceras.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.AssemblyInfoInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.AssemblyInfo.cs
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.csproj.CoreCompileInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.sourcelink.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeLapiceras\obj\Debug\net8.0\refint\LibreriaDeLapiceras.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeLapiceras\obj\Debug\net8.0\LibreriaDeLapiceras.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDeLapiceras\obj\Debug\net8.0\ref\LibreriaDeLapiceras.dll

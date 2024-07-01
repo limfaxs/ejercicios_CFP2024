@@ -1,0 +1,12 @@
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\INSTANCIA_AUTO\bin\Debug\net8.0\INSTANCIA_AUTO.deps.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\INSTANCIA_AUTO\bin\Debug\net8.0\INSTANCIA_AUTO.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\INSTANCIA_AUTO\bin\Debug\net8.0\INSTANCIA_AUTO.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\INSTANCIA_AUTO\obj\Debug\net8.0\INSTANCIA_AUTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\INSTANCIA_AUTO\obj\Debug\net8.0\INSTANCIA_AUTO.AssemblyInfoInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\INSTANCIA_AUTO\obj\Debug\net8.0\INSTANCIA_AUTO.AssemblyInfo.cs
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\INSTANCIA_AUTO\obj\Debug\net8.0\INSTANCIA_AUTO.csproj.CoreCompileInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\INSTANCIA_AUTO\obj\Debug\net8.0\INSTANCIA_AUTO.sourcelink.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\INSTANCIA_AUTO\obj\Debug\net8.0\INSTANCIA_AUTO.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\INSTANCIA_AUTO\obj\Debug\net8.0\refint\INSTANCIA_AUTO.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\INSTANCIA_AUTO\obj\Debug\net8.0\INSTANCIA_AUTO.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\INSTANCIA_AUTO\obj\Debug\net8.0\ref\INSTANCIA_AUTO.dll

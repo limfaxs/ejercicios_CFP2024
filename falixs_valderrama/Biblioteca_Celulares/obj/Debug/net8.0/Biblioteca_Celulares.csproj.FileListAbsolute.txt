@@ -1,0 +1,5 @@
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Biblioteca_Celulares\obj\Debug\net8.0\Biblioteca_Celulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Biblioteca_Celulares\obj\Debug\net8.0\Biblioteca_Celulares.AssemblyInfoInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Biblioteca_Celulares\obj\Debug\net8.0\Biblioteca_Celulares.AssemblyInfo.cs
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Biblioteca_Celulares\obj\Debug\net8.0\Biblioteca_Celulares.csproj.CoreCompileInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Biblioteca_Celulares\obj\Debug\net8.0\Biblioteca_Celulares.sourcelink.json

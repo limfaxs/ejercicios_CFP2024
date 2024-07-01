@@ -1,0 +1,12 @@
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Bliblioteca_Colectivo\bin\Debug\net8.0\Bliblioteca_Colectivo.deps.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Bliblioteca_Colectivo\bin\Debug\net8.0\Bliblioteca_Colectivo.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Bliblioteca_Colectivo\bin\Debug\net8.0\Bliblioteca_Colectivo.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Bliblioteca_Colectivo\obj\Debug\net8.0\Bliblioteca_Colectivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Bliblioteca_Colectivo\obj\Debug\net8.0\Bliblioteca_Colectivo.AssemblyInfoInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Bliblioteca_Colectivo\obj\Debug\net8.0\Bliblioteca_Colectivo.AssemblyInfo.cs
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Bliblioteca_Colectivo\obj\Debug\net8.0\Bliblioteca_Colectivo.csproj.CoreCompileInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Bliblioteca_Colectivo\obj\Debug\net8.0\Bliblioteca_Colectivo.sourcelink.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Bliblioteca_Colectivo\obj\Debug\net8.0\Bliblioteca_Colectivo.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Bliblioteca_Colectivo\obj\Debug\net8.0\refint\Bliblioteca_Colectivo.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Bliblioteca_Colectivo\obj\Debug\net8.0\Bliblioteca_Colectivo.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\Bliblioteca_Colectivo\obj\Debug\net8.0\ref\Bliblioteca_Colectivo.dll

@@ -1,0 +1,12 @@
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDePersonas\bin\Debug\net8.0\LibreriaDePersonas.deps.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDePersonas\bin\Debug\net8.0\LibreriaDePersonas.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDePersonas\bin\Debug\net8.0\LibreriaDePersonas.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.AssemblyInfoInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.AssemblyInfo.cs
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.csproj.CoreCompileInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.sourcelink.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDePersonas\obj\Debug\net8.0\refint\LibreriaDePersonas.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\LibreriaDePersonas\obj\Debug\net8.0\ref\LibreriaDePersonas.dll
