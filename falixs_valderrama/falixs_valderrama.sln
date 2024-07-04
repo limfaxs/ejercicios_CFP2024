@@ -119,9 +119,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaDeEmpleado", "Bibli
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteoDeEmpleados", "TesteoDeEmpleados\TesteoDeEmpleados.csproj", "{7B84609F-E592-413C-BE20-BA16CF9406C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaVehiculos", "LibreriaVehiculos\LibreriaVehiculos.csproj", "{B6C290E4-3F10-4D4B-9DE7-17F4CD2FDB4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibreriaVehiculos", "LibreriaVehiculos\LibreriaVehiculos.csproj", "{B6C290E4-3F10-4D4B-9DE7-17F4CD2FDB4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testeo_Vehiculo", "Testeo_Vehiculo\Testeo_Vehiculo.csproj", "{2792D0A1-2EEF-4FC1-9630-E46D2FB74FAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testeo_Vehiculo", "Testeo_Vehiculo\Testeo_Vehiculo.csproj", "{2792D0A1-2EEF-4FC1-9630-E46D2FB74FAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseDeComputadora", "ClaseDeComputadora\ClaseDeComputadora.csproj", "{52C17E8A-B6EA-44B8-A50C-CD955F5BE043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormPrincipal", "FormPrincipal\FormPrincipal.csproj", "{40D2A10C-98A2-4AC9-8718-09963C332B33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -369,6 +373,14 @@ Global
 		{2792D0A1-2EEF-4FC1-9630-E46D2FB74FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2792D0A1-2EEF-4FC1-9630-E46D2FB74FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2792D0A1-2EEF-4FC1-9630-E46D2FB74FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C17E8A-B6EA-44B8-A50C-CD955F5BE043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C17E8A-B6EA-44B8-A50C-CD955F5BE043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C17E8A-B6EA-44B8-A50C-CD955F5BE043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C17E8A-B6EA-44B8-A50C-CD955F5BE043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D2A10C-98A2-4AC9-8718-09963C332B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D2A10C-98A2-4AC9-8718-09963C332B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D2A10C-98A2-4AC9-8718-09963C332B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D2A10C-98A2-4AC9-8718-09963C332B33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

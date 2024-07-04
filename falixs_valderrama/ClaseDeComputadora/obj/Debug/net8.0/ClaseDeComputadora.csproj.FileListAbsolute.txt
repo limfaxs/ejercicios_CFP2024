@@ -1,0 +1,12 @@
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\ClaseDeComputadora\bin\Debug\net8.0\ClaseDeComputadora.deps.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\ClaseDeComputadora\bin\Debug\net8.0\ClaseDeComputadora.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\ClaseDeComputadora\bin\Debug\net8.0\ClaseDeComputadora.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\ClaseDeComputadora\obj\Debug\net8.0\ClaseDeComputadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\ClaseDeComputadora\obj\Debug\net8.0\ClaseDeComputadora.AssemblyInfoInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\ClaseDeComputadora\obj\Debug\net8.0\ClaseDeComputadora.AssemblyInfo.cs
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\ClaseDeComputadora\obj\Debug\net8.0\ClaseDeComputadora.csproj.CoreCompileInputs.cache
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\ClaseDeComputadora\obj\Debug\net8.0\ClaseDeComputadora.sourcelink.json
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\ClaseDeComputadora\obj\Debug\net8.0\ClaseDeComputadora.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\ClaseDeComputadora\obj\Debug\net8.0\refint\ClaseDeComputadora.dll
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\ClaseDeComputadora\obj\Debug\net8.0\ClaseDeComputadora.pdb
+C:\Users\LIXSFA\Desktop\ejercicios_CFP2024\falixs_valderrama\ClaseDeComputadora\obj\Debug\net8.0\ref\ClaseDeComputadora.dll

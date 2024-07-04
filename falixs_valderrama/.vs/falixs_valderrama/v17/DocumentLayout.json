@@ -3,23 +3,83 @@
   "WorkspaceRootPath": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40D2A10C-98A2-4AC9-8718-09963C332B33}|FormPrincipal\\FormPrincipal.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\formprincipal\\formprincipall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D2A10C-98A2-4AC9-8718-09963C332B33}|FormPrincipal\\FormPrincipal.csproj|solutionrelative:formprincipal\\formprincipall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D2A10C-98A2-4AC9-8718-09963C332B33}|FormPrincipal\\FormPrincipal.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\formprincipal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D2A10C-98A2-4AC9-8718-09963C332B33}|FormPrincipal\\FormPrincipal.csproj|solutionrelative:formprincipal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D2A10C-98A2-4AC9-8718-09963C332B33}|FormPrincipal\\FormPrincipal.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\formprincipal\\formprincipall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40D2A10C-98A2-4AC9-8718-09963C332B33}|FormPrincipal\\FormPrincipal.csproj|solutionrelative:formprincipal\\formprincipall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D2A10C-98A2-4AC9-8718-09963C332B33}|FormPrincipal\\FormPrincipal.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\formprincipal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40D2A10C-98A2-4AC9-8718-09963C332B33}|FormPrincipal\\FormPrincipal.csproj|solutionrelative:formprincipal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\formregistrate\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|solutionrelative:formregistrate\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\formregistrate\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|solutionrelative:formregistrate\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684EBE16-FB2E-4647-ACEE-FC088F318C85}|EJERCICIO3\\EJERCICIO3.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\ejercicio3\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684EBE16-FB2E-4647-ACEE-FC088F318C85}|EJERCICIO3\\EJERCICIO3.csproj|solutionrelative:ejercicio3\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE31EA25-BDCF-4F41-8E5B-27333ED1224E}|FormLapiceras\\FormLapiceras.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\formlapiceras\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE31EA25-BDCF-4F41-8E5B-27333ED1224E}|FormLapiceras\\FormLapiceras.csproj|solutionrelative:formlapiceras\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE31EA25-BDCF-4F41-8E5B-27333ED1224E}|FormLapiceras\\FormLapiceras.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\formlapiceras\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE31EA25-BDCF-4F41-8E5B-27333ED1224E}|FormLapiceras\\FormLapiceras.csproj|solutionrelative:formlapiceras\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D2A10C-98A2-4AC9-8718-09963C332B33}|FormPrincipal\\FormPrincipal.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\formprincipal\\formprincipall.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D2A10C-98A2-4AC9-8718-09963C332B33}|FormPrincipal\\FormPrincipal.csproj|solutionrelative:formprincipal\\formprincipall.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\formregistrate\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|solutionrelative:formregistrate\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\formregistrate\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|solutionrelative:formregistrate\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C17E8A-B6EA-44B8-A50C-CD955F5BE043}|ClaseDeComputadora\\ClaseDeComputadora.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\clasedecomputadora\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C17E8A-B6EA-44B8-A50C-CD955F5BE043}|ClaseDeComputadora\\ClaseDeComputadora.csproj|solutionrelative:clasedecomputadora\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62109A4-53D9-4DAE-9021-606E06580806}|LibreriaDeStudiante\\LibreriaDeStudiante.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\libreriadestudiante\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62109A4-53D9-4DAE-9021-606E06580806}|LibreriaDeStudiante\\LibreriaDeStudiante.csproj|solutionrelative:libreriadestudiante\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE31EA25-BDCF-4F41-8E5B-27333ED1224E}|FormLapiceras\\FormLapiceras.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\formlapiceras\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE31EA25-BDCF-4F41-8E5B-27333ED1224E}|FormLapiceras\\FormLapiceras.csproj|solutionrelative:formlapiceras\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C290E4-3F10-4D4B-9DE7-17F4CD2FDB4B}|LibreriaVehiculos\\LibreriaVehiculos.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\libreriavehiculos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C290E4-3F10-4D4B-9DE7-17F4CD2FDB4B}|LibreriaVehiculos\\LibreriaVehiculos.csproj|solutionrelative:libreriavehiculos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C290E4-3F10-4D4B-9DE7-17F4CD2FDB4B}|LibreriaVehiculos\\LibreriaVehiculos.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\libreriavehiculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C290E4-3F10-4D4B-9DE7-17F4CD2FDB4B}|LibreriaVehiculos\\LibreriaVehiculos.csproj|solutionrelative:libreriavehiculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2792D0A1-2EEF-4FC1-9630-E46D2FB74FAC}|Testeo_Vehiculo\\Testeo_Vehiculo.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\testeo_vehiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2792D0A1-2EEF-4FC1-9630-E46D2FB74FAC}|Testeo_Vehiculo\\Testeo_Vehiculo.csproj|solutionrelative:testeo_vehiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6C290E4-3F10-4D4B-9DE7-17F4CD2FDB4B}|LibreriaVehiculos\\LibreriaVehiculos.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\libreriavehiculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6C290E4-3F10-4D4B-9DE7-17F4CD2FDB4B}|LibreriaVehiculos\\LibreriaVehiculos.csproj|solutionrelative:libreriavehiculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6C290E4-3F10-4D4B-9DE7-17F4CD2FDB4B}|LibreriaVehiculos\\LibreriaVehiculos.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\libreriavehiculos\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6C290E4-3F10-4D4B-9DE7-17F4CD2FDB4B}|LibreriaVehiculos\\LibreriaVehiculos.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\libreriavehiculos\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6C290E4-3F10-4D4B-9DE7-17F4CD2FDB4B}|LibreriaVehiculos\\LibreriaVehiculos.csproj|solutionrelative:libreriavehiculos\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6C290E4-3F10-4D4B-9DE7-17F4CD2FDB4B}|LibreriaVehiculos\\LibreriaVehiculos.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\libreriavehiculos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6C290E4-3F10-4D4B-9DE7-17F4CD2FDB4B}|LibreriaVehiculos\\LibreriaVehiculos.csproj|solutionrelative:libreriavehiculos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DD88DF6-0ED9-4286-A46D-4C5B07C2C877}|TesteoDeHerencia\\TesteoDeHerencia.csproj|c:\\users\\lixsfa\\desktop\\ejercicios_cfp2024\\falixs_valderrama\\testeodeherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DD88DF6-0ED9-4286-A46D-4C5B07C2C877}|TesteoDeHerencia\\TesteoDeHerencia.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\testeodeherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DD88DF6-0ED9-4286-A46D-4C5B07C2C877}|TesteoDeHerencia\\TesteoDeHerencia.csproj|solutionrelative:testeodeherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -63,36 +123,8 @@
       "RelativeMoniker": "D:0:0:{E3549508-3901-434C-B705-456992BC68E4}|BibliotecaDeEmpleado\\LibreriaDeEmpleado.csproj|solutionrelative:bibliotecadeempleado\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\formregistrate\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|solutionrelative:formregistrate\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\formregistrate\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|solutionrelative:formregistrate\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\formregistrate\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|solutionrelative:formregistrate\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6730EC19-99EA-4683-B27C-066148C036E7}|LibreriaDeLapiceras\\LibreriaDeLapiceras.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\libreriadelapiceras\\lapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6730EC19-99EA-4683-B27C-066148C036E7}|LibreriaDeLapiceras\\LibreriaDeLapiceras.csproj|solutionrelative:libreriadelapiceras\\lapicera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE31EA25-BDCF-4F41-8E5B-27333ED1224E}|FormLapiceras\\FormLapiceras.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\formlapiceras\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE31EA25-BDCF-4F41-8E5B-27333ED1224E}|FormLapiceras\\FormLapiceras.csproj|solutionrelative:formlapiceras\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE31EA25-BDCF-4F41-8E5B-27333ED1224E}|FormLapiceras\\FormLapiceras.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\formlapiceras\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE31EA25-BDCF-4F41-8E5B-27333ED1224E}|FormLapiceras\\FormLapiceras.csproj|solutionrelative:formlapiceras\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE31EA25-BDCF-4F41-8E5B-27333ED1224E}|FormLapiceras\\FormLapiceras.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\formlapiceras\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE31EA25-BDCF-4F41-8E5B-27333ED1224E}|FormLapiceras\\FormLapiceras.csproj|solutionrelative:formlapiceras\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\formregistrate\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5AD165-6092-4F82-B97F-5CFCA032A427}|FormRegistrate\\FormRegistrate.csproj|solutionrelative:formregistrate\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,33 +146,135 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ejercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO3\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "EJERCICIO3\\Ejercicio3.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\EJERCICIO3\\Ejercicio3.cs",
+              "RelativeToolTip": "EJERCICIO3\\Ejercicio3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:00:20.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAlta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormPrincipal\\FormAlta.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormPrincipal\\FormAlta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormPrincipal\\FormAlta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:12:44.972Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAlta.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormPrincipal\\FormAlta.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormPrincipal\\FormAlta.cs",
+              "RelativeToolTip": "FormPrincipal\\FormAlta.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T23:42:32.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormPrincipall.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormPrincipal\\FormPrincipall.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormPrincipall.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormPrincipal\\FormPrincipall.cs",
+              "RelativeToolTip": "FormPrincipal\\FormPrincipall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T23:38:50.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPrincipall.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormPrincipal\\FormPrincipall.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormPrincipall.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormPrincipal\\FormPrincipall.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormPrincipal\\FormPrincipall.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T23:38:41.647Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormPrincipall.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormPrincipal\\FormPrincipall.Designer.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormPrincipall.Designer.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormPrincipal\\FormPrincipall.Designer.cs",
+              "RelativeToolTip": "FormPrincipal\\FormPrincipall.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwDQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T23:30:28.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Computadora.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\ClaseDeComputadora\\Computadora.cs",
+              "RelativeDocumentMoniker": "ClaseDeComputadora\\Computadora.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\ClaseDeComputadora\\Computadora.cs",
+              "RelativeToolTip": "ClaseDeComputadora\\Computadora.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:49:22.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\LibreriaDeStudiante\\Alumno.cs",
+              "RelativeDocumentMoniker": "LibreriaDeStudiante\\Alumno.cs",
+              "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\LibreriaDeStudiante\\Alumno.cs",
+              "RelativeToolTip": "LibreriaDeStudiante\\Alumno.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAmwLUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:25:36.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\Testeo_Vehiculo\\Program.cs",
               "RelativeDocumentMoniker": "Testeo_Vehiculo\\Program.cs",
               "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\Testeo_Vehiculo\\Program.cs",
               "RelativeToolTip": "Testeo_Vehiculo\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAQwCUAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T03:32:51.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "Moto.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\LibreriaVehiculos\\Moto.cs",
               "RelativeDocumentMoniker": "LibreriaVehiculos\\Moto.cs",
               "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\LibreriaVehiculos\\Moto.cs",
               "RelativeToolTip": "LibreriaVehiculos\\Moto.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAAEMAAAABAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwEMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T02:03:06.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "Coche.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\LibreriaVehiculos\\Coche.cs",
               "RelativeDocumentMoniker": "LibreriaVehiculos\\Coche.cs",
@@ -148,25 +282,24 @@
               "RelativeToolTip": "LibreriaVehiculos\\Coche.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAwwDwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T01:52:01.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T01:52:01.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Vehiculo.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\LibreriaVehiculos\\Vehiculo.cs",
               "RelativeDocumentMoniker": "LibreriaVehiculos\\Vehiculo.cs",
               "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\LibreriaVehiculos\\Vehiculo.cs",
               "RelativeToolTip": "LibreriaVehiculos\\Vehiculo.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAiwC0AAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T01:36:26.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\TesteoDeEmpleados\\Program.cs",
               "RelativeDocumentMoniker": "TesteoDeEmpleados\\Program.cs",
@@ -178,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "Analista.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\BibliotecaDeEmpleado\\Analista.cs",
               "RelativeDocumentMoniker": "BibliotecaDeEmpleado\\Analista.cs",
@@ -190,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 29,
               "Title": "Desarrollador.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\BibliotecaDeEmpleado\\Desarrollador.cs",
               "RelativeDocumentMoniker": "BibliotecaDeEmpleado\\Desarrollador.cs",
@@ -202,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "Gerente.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\BibliotecaDeEmpleado\\Gerente.cs",
               "RelativeDocumentMoniker": "BibliotecaDeEmpleado\\Gerente.cs",
@@ -214,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\BibliotecaDeEmpleado\\Empleado.cs",
               "RelativeDocumentMoniker": "BibliotecaDeEmpleado\\Empleado.cs",
@@ -226,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\LibreriaDeHerencia\\Animal.cs",
               "RelativeDocumentMoniker": "LibreriaDeHerencia\\Animal.cs",
@@ -238,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\TesteoDeHerencia\\Program.cs",
               "RelativeDocumentMoniker": "TesteoDeHerencia\\Program.cs",
@@ -246,12 +379,11 @@
               "RelativeToolTip": "TesteoDeHerencia\\Program.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAwwE0AAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T21:11:48.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T21:11:48.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
               "Title": "Loro.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\LibreriaDeHerencia\\Loro.cs",
               "RelativeDocumentMoniker": "LibreriaDeHerencia\\Loro.cs",
@@ -263,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "Gato.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\LibreriaDeHerencia\\Gato.cs",
               "RelativeDocumentMoniker": "LibreriaDeHerencia\\Gato.cs",
@@ -275,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
               "Title": "Perro.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\LibreriaDeHerencia\\Perro.cs",
               "RelativeDocumentMoniker": "LibreriaDeHerencia\\Perro.cs",
@@ -287,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "FormAlta.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormLapiceras\\FormAlta.cs",
               "RelativeDocumentMoniker": "FormLapiceras\\FormAlta.cs",
@@ -295,45 +427,49 @@
               "RelativeToolTip": "FormLapiceras\\FormAlta.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAowDIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T09:23:55.602Z"
+              "WhenOpened": "2024-06-24T09:23:55.602Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 7,
               "Title": "FormPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormLapiceras\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "FormLapiceras\\FormPrincipal.cs",
               "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormLapiceras\\FormPrincipal.cs",
               "RelativeToolTip": "FormLapiceras\\FormPrincipal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAMwBkAAAAPAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA7wBQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T08:33:48.604Z"
+              "WhenOpened": "2024-06-24T08:33:48.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 8,
               "Title": "FormPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormLapiceras\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "FormLapiceras\\FormPrincipal.cs",
               "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormLapiceras\\FormPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "FormLapiceras\\FormPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T08:22:33.926Z"
+              "WhenOpened": "2024-06-24T08:22:33.926Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 14,
               "Title": "FormAlta.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormLapiceras\\FormAlta.cs",
               "RelativeDocumentMoniker": "FormLapiceras\\FormAlta.cs",
               "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormLapiceras\\FormAlta.cs [Dise\u00F1o]",
               "RelativeToolTip": "FormLapiceras\\FormAlta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T08:32:22.61Z"
+              "WhenOpened": "2024-06-24T08:32:22.61Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "Lapicera.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\LibreriaDeLapiceras\\Lapicera.cs",
               "RelativeDocumentMoniker": "LibreriaDeLapiceras\\Lapicera.cs",
@@ -345,49 +481,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
               "Title": "FormAlta.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormRegistrate\\FormAlta.cs",
               "RelativeDocumentMoniker": "FormRegistrate\\FormAlta.cs",
               "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormRegistrate\\FormAlta.cs",
               "RelativeToolTip": "FormRegistrate\\FormAlta.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAcwEQAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T03:16:04.003Z"
+              "WhenOpened": "2024-06-24T03:16:04.003Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 11,
               "Title": "FormAlta.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormRegistrate\\FormAlta.cs",
               "RelativeDocumentMoniker": "FormRegistrate\\FormAlta.cs",
               "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormRegistrate\\FormAlta.cs [Dise\u00F1o]",
               "RelativeToolTip": "FormRegistrate\\FormAlta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T03:15:24.81Z"
+              "WhenOpened": "2024-06-24T03:15:24.81Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "FormPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormRegistrate\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "FormRegistrate\\FormPrincipal.cs",
               "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormRegistrate\\FormPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "FormRegistrate\\FormPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T02:58:10.507Z"
+              "WhenOpened": "2024-06-24T02:58:10.507Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 4,
               "Title": "FormPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormRegistrate\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "FormRegistrate\\FormPrincipal.cs",
               "ToolTip": "C:\\Users\\LIXSFA\\Desktop\\ejercicios_CFP2024\\falixs_valderrama\\FormRegistrate\\FormPrincipal.cs",
               "RelativeToolTip": "FormRegistrate\\FormPrincipal.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBwAAAAxAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T02:58:02.163Z"
+              "WhenOpened": "2024-06-24T02:58:02.163Z",
+              "EditorCaption": ""
             }
           ]
         }

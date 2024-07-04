@@ -20,10 +20,10 @@ namespace FormLapiceras
             FormAlta formAlta = new FormAlta();
             formAlta.ShowDialog();
 
-            //if (formAlta.DialogResult == DialogResult.OK)
-            //{
-                
-            //}
+            if (formAlta.DialogResult == DialogResult.OK)
+            {
+
+            }
         }
 
     }
